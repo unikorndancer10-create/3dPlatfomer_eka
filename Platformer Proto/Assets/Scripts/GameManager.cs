@@ -38,6 +38,8 @@ public class GameManager : MonoBehaviour
 
     private bool introducing;
 
+   
+
     void Start()
     {
         StartCoroutine("Cinematic");
